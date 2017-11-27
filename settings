@@ -1,0 +1,37 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "editor.lineNumbers": "relative",
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors": {
+        "normal": "#005f87",
+        "insert": "#5f0000",
+        "visual": "#5f00af",
+        "visualline": "#005f5f",
+        "visualblock": "#86592d",
+        "replace": "#000000"
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "clock.dateFormat": "ddd mm/dd/yyyy HH:MM",
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "/usr/local/bin/php",
+    "php.validate.run": "onType",
+    "workbench.colorTheme": "Firewatch Theme",
+    "explorer.autoReveal": false,
+    "[css]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    }
+}
